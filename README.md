@@ -2,7 +2,7 @@
 
 Personal portfolio website of a Computer Engineering graduate (Magna Cum Laude), built with plain HTML, CSS, and JavaScript.
 
-**Live site:** https://aiamairronroxas.github.io/qualityengportfolio
+**Live site:** https://aiamairronroxas.github.io/devopsportfolio
 
 ## Structure
 - `index.html`: the page
